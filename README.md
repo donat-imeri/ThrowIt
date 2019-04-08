@@ -28,7 +28,7 @@ working is the landscape mode, so you can use the app only in the portrait mode 
 
 # Sensitivity
 In my personal mobile phone the game seems to perform best when the ssensitivity value is around 15. When it is to small the ball is throwed in
-short distances, so by increasing it to this value I get a quite real feel. 
+short distances, so by increasing it to this value I get a quite real feel. The sliding window size is 20 and seems to work quite well. 
 
 
 # Checklist
