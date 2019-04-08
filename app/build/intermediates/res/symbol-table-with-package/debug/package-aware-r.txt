@@ -648,6 +648,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable palm
 drawable preferences
 drawable sound
 drawable tooltip_frame_dark

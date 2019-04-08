@@ -3400,10 +3400,11 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f060064;
     public static final int notification_tile_bg=0x7f060065;
     public static final int notify_panel_notification_icon_bg=0x7f060066;
-    public static final int preferences=0x7f060067;
-    public static final int sound=0x7f060068;
-    public static final int tooltip_frame_dark=0x7f060069;
-    public static final int tooltip_frame_light=0x7f06006a;
+    public static final int palm=0x7f060067;
+    public static final int preferences=0x7f060068;
+    public static final int sound=0x7f060069;
+    public static final int tooltip_frame_dark=0x7f06006a;
+    public static final int tooltip_frame_light=0x7f06006b;
   }
   public static final class id {
     public static final int ALT=0x7f070000;
