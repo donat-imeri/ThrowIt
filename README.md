@@ -13,8 +13,7 @@ it by accelerating your phone. </br>
 The distance will change and reflect the current distance of the ball from the ground. A sound is played as well while this is done. 
 After the ball gets to its highest position it will start to fall down and an other sound is played, while this is done the distance 
 will be decreased till the ball appears again which means that the ball is again in your hand. You can always change the threshold value
-which is the sensitivity value of the app so that when you are just moving the phone slowly the ball is not thrown. One feature that is not 
-working is the landscape mode, so you can use the app only in the portrait mode and the user can not switch to landscape. 
+which is the sensitivity value of the app so that when you are just moving the phone slowly the ball is not thrown. One feature that is not applied is the landscape mode, so you can use the app only in the portrait mode and the user can not switch to landscape. 
 
 # Extras
 * You can always turn on or off the sound by clicking the icon on the top left of the screen
@@ -35,7 +34,7 @@ short distances, so by increasing it to this value I get a quite real feel. The 
 
 * [x] The git repository URL is correctly provided, such that command works: `git clone <url> `
 * [x] The code is well, logically organised and structured into appropriate classes. Everything should be in a single package.
-* [x] The app has been user tested with someone other than the author.
+* [x] The app has been user tested with someone other than the author. The app is tested on Samsung Galaxy S3 Neo and on Samsung A7 2018.
 * [x] The user can go to Preferences and set the MIN_ACC value (sensitivity).
 * [x] The app plays sounds on the ball highest point.
 * [x] The app records the highest point reached by the ball.
